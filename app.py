@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.datasets import load_files
 import re
 
+#data link: http://mlg.ucd.ie/files/datasets/bbc-fulltext.zip
 
 DATA_DIR = "./bbc/"
 
