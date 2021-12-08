@@ -21,6 +21,7 @@ sklearn text classification for english texts
     <li>
     tech
   </li>
+</ul>
 <h2>Data Scheme example for training model</h2>
   <ul>
     -yourfile
