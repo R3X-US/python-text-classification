@@ -1,5 +1,5 @@
 # python-text-classification
-sklean text classification for engilsh texts
+sklearn text classification for engilsh texts
 
 <h2>Classes: </h2>
 <ul>
