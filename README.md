@@ -91,4 +91,4 @@ sklearn text classification for english texts
     </ul>
 </li>
   </ul>
-  <p>or else you can use finalized_model.sav</p>
+  <p>or you can use finalized_model.sav</p>
