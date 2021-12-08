@@ -22,23 +22,73 @@ sklearn text classification for english texts
     tech
   </li>
 <h2>Data Scheme example for training model</h2>
+  <ul>
     -yourfile
+<li>
         -business
+  <ul>
+
+<li>
             -001.txt
+</li>
+<li>
             -002.txt
+    </ul>
+</li>
+<li>
         -entertainment
+  <ul>
+
+<li>
             -001.txt
+</li>
+<li>
             -002.txt
+    </ul>
+</li>
+<li>
+        -politics
+  <ul>
+
+<li>
+            -001.txt
+</li>
+<li>
+            -002.txt
+    </ul>
+</li>
+<li>
         -science
+  <ul>
+
+<li>
             -001.txt
+</li>
+<li>
             -002.txt
-        -business
-            -001.txt
-            -002.txt
+    </ul>
+</li>
+<li>
         -sport
+  <ul>
+
+<li>
             -001.txt
+</li>
+<li>
             -002.txt
+    </ul>
+</li>
+<li>
         -tech
+  <ul>
+
+<li>
             -001.txt
+</li>
+<li>
             -002.txt
+    </ul>
+</li>
+  </ul>
   <p>or else you can use finalized_model.sav</p>
