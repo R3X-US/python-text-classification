@@ -23,8 +23,7 @@ sklearn text classification for english texts
   </li>
 </ul>
 <h2>Data Scheme example for training model</h2>
-  <ul>
-    -yourfile
+  <ul>-yourfile
 <li>
         -business
   <ul>
