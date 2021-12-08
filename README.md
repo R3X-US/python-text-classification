@@ -1,4 +1,4 @@
-# python-text-classification
+# python text classification
 sklearn text classification for english texts
 
 <h2>Classes: </h2>
